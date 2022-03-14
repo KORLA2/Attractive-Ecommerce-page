@@ -1,0 +1,41 @@
+.bottom{
+border-top: 2px solid black;
+height:400px;
+width:100vw;
+position:relative;;
+top:900px;
+border-bottom:2px solid black;
+
+}
+h5{
+    border-bottom:2px solid black;
+    margin-bottom:10px;
+}
+h5:hover{
+ cursor: pointer;    color:rgb(153, 190, 98);
+
+}
+.icons{
+    width:100vw;;
+    display:flex;
+    justify-content:center;
+}
+.class{
+height:400px;
+text-align: center;
+display:flex;
+align-items:center;
+justify-content: space-around;
+}li{
+    text-align:left;
+list-style: none;
+
+margin:10px;
+}
+li:hover{
+cursor: pointer;    color:rgb(153, 190, 98);
+
+}
+i{
+    margin:40px;
+}
